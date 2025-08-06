@@ -1,0 +1,19 @@
+{
+  "niat": [
+    {
+      "tag": "salam",
+      "pola": ["Halo", "Hai", "Selamat pagi", "Apa kabar?"],
+      "respon": ["Halo juga!", "Hai, ada yang bisa saya bantu?", "Selamat datang!"]
+    },
+    {
+      "tag": "selamat_tinggal",
+      "pola": ["Sampai jumpa", "Dadah", "Selamat tinggal"],
+      "respon": ["Sampai jumpa lagi!", "Semoga harimu menyenangkan!", "Dadah!"]
+    },
+    {
+      "tag": "terima_kasih",
+      "pola": ["Terima kasih", "Makasih", "Thanks"],
+      "respon": ["Sama-sama!", "Dengan senang hati!", "Kembali kasih!"]
+    }
+  ]
+}
